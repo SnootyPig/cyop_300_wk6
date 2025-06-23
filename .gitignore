@@ -1,0 +1,7 @@
+/.DS_Store
+/__pycache__
+/app.py
+/docs
+/static
+/templates
+/venv
