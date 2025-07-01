@@ -2,6 +2,8 @@
 /__pycache__
 /docs
 /static
+/app.py
 /venv
+/templates
 luna_alex.zip
 alex_luna_lab6.docx
